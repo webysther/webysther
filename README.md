@@ -1,6 +1,6 @@
 Also called web, chasing to build a world with no barriers.
 
-![](/webysther/samurai.png)
+![](https://github.com/webysther/webysther/raw/master/samurai.png)
 
 Draw credits [@tiagoamemiya](https://github.com/tiagoamemiya)
 
