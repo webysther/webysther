@@ -4,8 +4,7 @@ Also called web, chasing to build a world with no barriers.
 
 Draw credits [@tiagoamemiya](https://github.com/tiagoamemiya)
 
-Another proud volunteer from Wikipedia, enriching Brazilian articles with images:
+Another proud [volunteer from Wikipedia](https://commons.wikimedia.org/wiki/User:Webysther), enriching Brazilian articles with images:
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Webysther_20150509172554_-_Esta%C3%A7%C3%A3o_da_Luz.jpg/320px-Webysther_20150509172554_-_Esta%C3%A7%C3%A3o_da_Luz.jpg)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Webysther_20150906183737_-_Rio_S%C3%A3o_Francisco%2C_Xique-xique_-_Bahia.jpg/320px-Webysther_20150906183737_-_Rio_S%C3%A3o_Francisco%2C_Xique-xique_-_Bahia.jpg)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Webysther_20150907164050_-_Pal%C3%A1cio_Rio_Branco.jpg/311px-Webysther_20150907164050_-_Pal%C3%A1cio_Rio_Branco.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Webysther_20190304151621_-_Parque_da_Independ%C3%AAncia.jpg/1280px-Webysther_20190304151621_-_Parque_da_Independ%C3%AAncia.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Webysther_20170619072151_-_Pedra_do_ba%C3%BA_e_a_direita_Vale_do_Paiol_Grande.jpg/1280px-Webysther_20170619072151_-_Pedra_do_ba%C3%BA_e_a_direita_Vale_do_Paiol_Grande.jpg)
