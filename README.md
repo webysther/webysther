@@ -1,6 +1,7 @@
 Also called web, chasing to build a world with no barriers.
 
-![](/samurai.png)
+![](/webysther/samurai.png)
+
 Draw credits [@tiagoamemiya](https://github.com/tiagoamemiya)
 
 Another proud volunteer from Wikipedia, enriching Brazilian articles with images:
